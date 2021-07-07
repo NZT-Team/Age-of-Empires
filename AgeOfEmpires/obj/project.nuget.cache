@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hVfQ909Gji/ZxKVuIE0Az5cIwrme5VfMZpsLfMQeIv5NHKCTfOGq3RS2/2ZJoE0jrJhzej20DkpRn00A9R8KOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\Source\\Repos\\NZT-Team\\Age-of-Empires\\AgeOfEmpires\\AgeOfEmpires.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
