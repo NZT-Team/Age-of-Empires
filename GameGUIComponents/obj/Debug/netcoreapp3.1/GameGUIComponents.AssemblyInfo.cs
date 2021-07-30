@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GameObjectsLibrary")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GameGUIComponents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("GameObjectsLibrary")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GameObjectsLibrary")]
+[assembly: System.Reflection.AssemblyProductAttribute("GameGUIComponents")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GameGUIComponents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

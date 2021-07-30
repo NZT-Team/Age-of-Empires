@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\AgeOfEmpires\\AgeOfEmpires.csproj": {}
+    "C:\\Users\\Danil\\Source\\Repos\\Age-of-Empires\\AgeOfEmpires\\AgeOfEmpires.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\AgeOfEmpires\\AgeOfEmpires.csproj": {
+    "C:\\Users\\Danil\\Source\\Repos\\Age-of-Empires\\AgeOfEmpires\\AgeOfEmpires.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\AgeOfEmpires\\AgeOfEmpires.csproj",
+        "projectUniqueName": "C:\\Users\\Danil\\Source\\Repos\\Age-of-Empires\\AgeOfEmpires\\AgeOfEmpires.csproj",
         "projectName": "AgeOfEmpires",
-        "projectPath": "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\AgeOfEmpires\\AgeOfEmpires.csproj",
-        "packagesPath": "C:\\Users\\NePC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\AgeOfEmpires\\obj\\",
+        "projectPath": "C:\\Users\\Danil\\Source\\Repos\\Age-of-Empires\\AgeOfEmpires\\AgeOfEmpires.csproj",
+        "packagesPath": "C:\\Users\\Danil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danil\\Source\\Repos\\Age-of-Empires\\AgeOfEmpires\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\NePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Danil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -68,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
