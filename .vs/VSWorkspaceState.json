@@ -1,17 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AgeOfEmpires",
+    "\\AgeOfEmpires\\bin",
+    "\\AgeOfEmpires\\bin\\Debug",
+    "\\AgeOfEmpires\\bin\\Debug\\netcoreapp3.1",
     "\\AgeOfEmpires\\Content",
     "\\AgeOfEmpires\\Content\\bin",
-    "\\AgeOfEmpires\\Content\\bin\\DesktopGL",
-    "\\AgeOfEmpires\\Content\\obj",
-    "\\AgeOfEmpires\\Content\\obj\\DesktopGL",
-    "\\AgeOfEmpires\\Content\\obj\\DesktopGL\\Content",
-    "\\GameGUIComponents",
-    "\\GameGUIComponents\\obj",
-    "\\GameGUIComponents\\obj\\Debug"
+    "\\AgeOfEmpires\\obj\\Debug",
+    "\\AgeOfEmpires\\obj\\Debug\\netcoreapp3.1",
+    "\\GameGUIComponentsLibrary",
+    "\\GameGUIComponentsLibrary\\GameControls"
   ],
-  "SelectedNode": "\\AgeOfEmpires\\AgeOfEmpires.sln",
+  "SelectedNode": "\\GameGUIComponentsLibrary\\Game1.cs",
   "PreviewInSolutionExplorer": false
 }
