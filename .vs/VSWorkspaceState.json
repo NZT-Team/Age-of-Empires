@@ -6,11 +6,10 @@
     "\\AgeOfEmpires\\bin\\Debug\\netcoreapp3.1",
     "\\AgeOfEmpires\\Content",
     "\\AgeOfEmpires\\Content\\bin",
-    "\\AgeOfEmpires\\obj\\Debug",
-    "\\AgeOfEmpires\\obj\\Debug\\netcoreapp3.1",
     "\\GameGUIComponentsLibrary",
+    "\\GameGUIComponentsLibrary\\Content",
     "\\GameGUIComponentsLibrary\\GameControls"
   ],
-  "SelectedNode": "\\GameGUIComponentsLibrary\\Game1.cs",
+  "SelectedNode": "\\GameGUIComponentsLibrary\\GameGUIComponentsLibrary.shproj",
   "PreviewInSolutionExplorer": false
 }
