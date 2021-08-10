@@ -1,35 +1,27 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System.Drawing;
 
 public class Button : Game
 {
 	int buttonX, buttonY;
+    int Width, Height;
     Texture2D texture;
     MouseState lastMouseState;
+    Color color;
 
-    public int ButtonX
-    {
-        get
-        {
-            return buttonX;
-        }
-    }
+   
 
-    public int ButtonY
-    {
-        get
-        {
-            return buttonY;
-        }
-    }
-
-    public Button(string name, Texture2D texture, int buttonX, int buttonY)
+    public Button(string name, Texture2D texture, int buttonX, int buttonY, Color color,int width,int height)
     {
         this.Name = name;
         this.Texture = texture;
         this.buttonX = buttonX;
         this.buttonY = buttonY;
+        this.color = color;
+        this.Height = height;
+        this.Width = width;
     }
 
     public void Update(GameTime gameTime)
