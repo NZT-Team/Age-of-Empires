@@ -4,12 +4,13 @@ using System.Text;
 
 namespace GameObjectsLibrary
 {
-   public  class GameObject
-   {
-        public GameObject() 
-        { 
-        }
-     
+    enum EnumAgeType
+    {
+        STONE,
+        TOOL,
+        BRONZE,
+        IRON,
+        NONE
 
-   }
+    }
 }
