@@ -9,7 +9,9 @@
     "\\AgeOfEmpires\\Content\\bin",
     "\\GameGUIComponentsLibrary",
     "\\GameGUIComponentsLibrary\\Content",
-    "\\GameGUIComponentsLibrary\\GameControls"
+    "\\GameGUIComponentsLibrary\\GameControls",
+    "\\GameObjectsLibrary",
+    "\\GameObjectsLibrary\\GameObject"
   ],
   "SelectedNode": "\\GameGUIComponentsLibrary\\GameControls\\LabelControl.cs",
   "PreviewInSolutionExplorer": false
