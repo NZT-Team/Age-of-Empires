@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GameObjectsLibrary
 {
-    public class Loot:SetableObject
+    public class Loot:SettableObject
     {
     }
 }

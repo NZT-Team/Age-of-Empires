@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GameObjectsLibrary
 {
-    enum EnumAgeType
+    public enum EnumAgeType
     {
         STONE,
         TOOL,

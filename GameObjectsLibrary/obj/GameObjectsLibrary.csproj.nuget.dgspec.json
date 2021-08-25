@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\GameObjectsLibrary\\GameObjectsLibrary.csproj": {}
+    "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires\\GameObjectsLibrary\\GameObjectsLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\GameObjectsLibrary\\GameObjectsLibrary.csproj": {
+    "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires\\GameObjectsLibrary\\GameObjectsLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\GameObjectsLibrary\\GameObjectsLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires\\GameObjectsLibrary\\GameObjectsLibrary.csproj",
         "projectName": "GameObjectsLibrary",
-        "projectPath": "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\GameObjectsLibrary\\GameObjectsLibrary.csproj",
-        "packagesPath": "C:\\Users\\NePC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NePC\\Source\\Repos\\Age-of-Empires1\\GameObjectsLibrary\\obj\\",
+        "projectPath": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires\\GameObjectsLibrary\\GameObjectsLibrary.csproj",
+        "packagesPath": "C:\\Users\\DELL_PRECISION\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires\\GameObjectsLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\NePC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL_PRECISION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

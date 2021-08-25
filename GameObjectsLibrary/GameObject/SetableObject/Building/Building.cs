@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GameObjectsLibrary
 {
-    public class Building:SetableObject
+    public class Building:SettableObject
     {
     }
 }
