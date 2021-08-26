@@ -1,0 +1,4 @@
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires-1\GameObjectsLibrary\obj\Debug\netcoreapp3.1\GameObjectsLibrary.csproj.AssemblyReference.cache
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires-1\GameObjectsLibrary\obj\Debug\netcoreapp3.1\GameObjectsLibrary.AssemblyInfoInputs.cache
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires-1\GameObjectsLibrary\obj\Debug\netcoreapp3.1\GameObjectsLibrary.AssemblyInfo.cs
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires-1\GameObjectsLibrary\obj\Debug\netcoreapp3.1\GameObjectsLibrary.csproj.CoreCompileInputs.cache

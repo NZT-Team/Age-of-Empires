@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using GameGUILib;
 
 namespace AgeOfEmpires
 {
@@ -8,6 +9,8 @@ namespace AgeOfEmpires
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private Button button;
+        private Texture2D buttontexture;
 
         public GameMenu()
         {
@@ -26,7 +29,8 @@ namespace AgeOfEmpires
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-
+            buttontexture = Content.Load<Texture2D>("SoloPlayButton");
+            button = new Button("Play",new System.Drawing.Size(100,50),System.Drawing.Color.Red,new System.Drawing.Point(50,50));
             // TODO: use this.Content to load your game content here
         }
 
@@ -43,6 +47,12 @@ namespace AgeOfEmpires
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
+            
+            _spriteBatch.Begin();
+            _spriteBatch.Draw(buttontexture,new Vector2(this.button.point.X,this.button.point.Y),Color.White);
+            _spriteBatch.End();
+            
+
 
             // TODO: Add your drawing code here
 
