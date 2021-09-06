@@ -49,7 +49,7 @@ namespace AgeOfEmpires
             GraphicsDevice.Clear(Color.CornflowerBlue);
             
             _spriteBatch.Begin();
-            _spriteBatch.Draw(buttontexture,new Vector2(this.button.point.X,this.button.point.Y),Color.White);
+            
             _spriteBatch.End();
             
 

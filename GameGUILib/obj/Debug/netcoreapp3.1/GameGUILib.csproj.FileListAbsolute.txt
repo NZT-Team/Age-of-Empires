@@ -7,3 +7,12 @@ C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires-1\GameGUILib\obj\Debug\netco
 C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires-1\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.csproj.CoreCompileInputs.cache
 C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires-1\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.dll
 C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires-1\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.pdb
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\bin\Debug\netcoreapp3.1\GameGUILib.deps.json
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\bin\Debug\netcoreapp3.1\GameGUILib.dll
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\bin\Debug\netcoreapp3.1\GameGUILib.pdb
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.csproj.AssemblyReference.cache
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.AssemblyInfoInputs.cache
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.AssemblyInfo.cs
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.csproj.CoreCompileInputs.cache
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.dll
+C:\Users\DELL_PRECISION\Source\Repos\Age-of-Empires3\GameGUILib\obj\Debug\netcoreapp3.1\GameGUILib.pdb

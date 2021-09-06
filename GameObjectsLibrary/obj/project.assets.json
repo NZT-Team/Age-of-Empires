@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires-1\\GameObjectsLibrary\\GameObjectsLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires3\\GameObjectsLibrary\\GameObjectsLibrary.csproj",
       "projectName": "GameObjectsLibrary",
-      "projectPath": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires-1\\GameObjectsLibrary\\GameObjectsLibrary.csproj",
+      "projectPath": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires3\\GameObjectsLibrary\\GameObjectsLibrary.csproj",
       "packagesPath": "C:\\Users\\DELL_PRECISION\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires-1\\GameObjectsLibrary\\obj\\",
+      "outputPath": "C:\\Users\\DELL_PRECISION\\Source\\Repos\\Age-of-Empires3\\GameObjectsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
